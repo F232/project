@@ -20,7 +20,7 @@ The **C++ File Generator** is a command-line tool designed to automate the creat
 2. **Run the Program**
    Provide the output file name as an argument:
    ```bash
-   ./cpp_generator output_file.cpp
+   ./cpp_generator \"output_file.cpp\"
    ```
 
 3. **Interactive Prompts**
