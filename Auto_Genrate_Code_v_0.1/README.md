@@ -62,9 +62,6 @@ int main()
 ## Contributing
 Contributions are welcome! Feel free to open an issue or submit a pull request if you have ideas for improvement or bug fixes.
 
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
 ## Copyright
 &copy; 2025 Ahmed Benhamma
 
